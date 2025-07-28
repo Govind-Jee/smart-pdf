@@ -1,0 +1,189 @@
+{
+    "metadata": {
+        "input_documents": [
+            "file05.pdf",
+            "file04.pdf",
+            "file01.pdf",
+            "file03.pdf",
+            "file02.pdf"
+        ],
+        "persona": "PhD Researcher in Computational Biology",
+        "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+    },
+    "extracted_sections": [
+        {
+            "document": "file03.pdf",
+            "page_number": 11,
+            "section_title": "Content from page 11",
+            "importance_rank": 1
+        },
+        {
+            "document": "file04.pdf",
+            "page_number": 1,
+            "section_title": "Content from page 1",
+            "importance_rank": 2
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 1,
+            "section_title": "Content from page 1",
+            "importance_rank": 3
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 14,
+            "section_title": "Content from page 14",
+            "importance_rank": 4
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 12,
+            "section_title": "Content from page 12",
+            "importance_rank": 5
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Content from page 1",
+            "importance_rank": 6
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 3,
+            "section_title": "Content from page 3",
+            "importance_rank": 7
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 6,
+            "section_title": "Content from page 6",
+            "importance_rank": 8
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 7,
+            "section_title": "Content from page 7",
+            "importance_rank": 9
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 8,
+            "section_title": "Content from page 8",
+            "importance_rank": 10
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 2,
+            "section_title": "Content from page 2",
+            "importance_rank": 11
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 10,
+            "section_title": "Content from page 10",
+            "importance_rank": 12
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 13,
+            "section_title": "Content from page 13",
+            "importance_rank": 13
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 9,
+            "section_title": "Content from page 9",
+            "importance_rank": 14
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 11,
+            "section_title": "Content from page 11",
+            "importance_rank": 15
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 6,
+            "section_title": "Content from page 6",
+            "importance_rank": 16
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 2,
+            "section_title": "Content from page 2",
+            "importance_rank": 17
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 4,
+            "section_title": "Content from page 4",
+            "importance_rank": 18
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 9,
+            "section_title": "Content from page 9",
+            "importance_rank": 19
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 5,
+            "section_title": "Content from page 5",
+            "importance_rank": 20
+        },
+        {
+            "document": "file03.pdf",
+            "page_number": 5,
+            "section_title": "Content from page 5",
+            "importance_rank": 21
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 3,
+            "section_title": "Content from page 3",
+            "importance_rank": 22
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 8,
+            "section_title": "Content from page 8",
+            "importance_rank": 23
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 10,
+            "section_title": "Content from page 10",
+            "importance_rank": 24
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 7,
+            "section_title": "Content from page 7",
+            "importance_rank": 25
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 4,
+            "section_title": "Content from page 4",
+            "importance_rank": 26
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 12,
+            "section_title": "Content from page 12",
+            "importance_rank": 27
+        },
+        {
+            "document": "file05.pdf",
+            "page_number": 1,
+            "section_title": "Content from page 1",
+            "importance_rank": 28
+        },
+        {
+            "document": "file01.pdf",
+            "page_number": 1,
+            "section_title": "Content from page 1",
+            "importance_rank": 29
+        }
+    ]
+}

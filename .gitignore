@@ -1,0 +1,11 @@
+# Ignore the SBERT model folders
+sbert-model/
+challenge_1b/sbert-model/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/

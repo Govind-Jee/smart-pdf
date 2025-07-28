@@ -1,0 +1,5 @@
+{
+  "persona": "student",
+  "interests": ["introduction", "key concepts", "examples", "summary", "background"],
+  "output_format": "bullet_points"
+}
